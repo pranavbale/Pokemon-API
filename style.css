@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    background-color: rgb(248, 246, 244);
+    /* color: rgb(242, 122, 122); */
+    font-size: xx-large;
+    margin: 45px;
+}
+
+button {
+    background-color: purple;
+    color: whitesmoke;
+    font-size: xx-large;
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    color: purple;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+}
